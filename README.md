@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ozgurcetinpy/ozgurcetinpy/blob/main/Does_Data_Science_Re.jpeg)
 <h1 align="center">Hi 👋, I'm Özgür Çetin</h1>
 <h3 align="center">Jr. Data Scientist</h3>
 
