@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özgür Çetin</h1>
-<h3 align="center">A Jr. Data Scientist</h3>
+<h3 align="center">Jr. Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgurcetinpy&label=Profile%20views&color=0e75b6&style=flat" alt="ozgurcetinpy" /> </p>
 
